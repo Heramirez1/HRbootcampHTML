@@ -2,9 +2,10 @@
 
 /*paleta de colores generales*/
 /*COLORES SEGÚN MANUAL DE MARCA*/
+	/* 2024/06/19 se cambia el color primario a verde */
 :root{
 	--blanco: #ffffff;
-	--primario: #ffc107;
+	--primario: #09a51e;
 	--oscuro: #212121;
 	--secundario:#0097A7;
 	--gris:#757575;
